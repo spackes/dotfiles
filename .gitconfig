@@ -1,0 +1,7 @@
+[gui]
+	recentrepo = C:/Users/frey/Projekts/test1
+[user]
+	name = spackes
+	email = mail@felixfrey.com
+[credential]
+	helper = cache --timeout=3600
